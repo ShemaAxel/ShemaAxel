@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I am a Bass 🎸 player ...
 
 
-![ShemaAxel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShemaAxel&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemaAxel&layout=compact)](https://github.com/ShemaAxel/github-readme-stats)
 
 
 # Show some ❤️ by starring some of the repositories!
