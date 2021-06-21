@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on BK's e-banking platform as a backend developer.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on .
-- 🤔 I’m looking for help with .
-- 💬 Ask me about  Flutter or any tech-related stuff.
-- 📫 How to reach me: https://twitter.com/shemaromeoaxel https://www.linkedin.com/in/shema-romeo-axel-105a03199/ .
+- 🤔 I’m looking for help with System Architecture.
+- 💬 Ask me about tech-related stuff.
+- 📫 How to reach me: [Twitter](https://twitter.com/shemaromeoaxel),[Linkedin] (https://www.linkedin.com/in/shema-romeo-axel-105a03199/) .
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I am a Bass 🎸 player ...
 
