@@ -1,6 +1,5 @@
 ### Hola, I'm Axel!👋
 
-**ShemaAxel/ShemaAxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on BK's e-banking platform as a backend developer.
 - 🌱 I’m currently learning Flutter.
