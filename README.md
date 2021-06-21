@@ -12,13 +12,10 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemaAxel&layout=compact)](https://github.com/ShemaAxel/github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShemaAxel&repo=ar_solar_system)](https://github.com/ShemaAxel/ar_solar_system)
-
-
 
 
 # Show some ❤️ by starring some of the repositories!
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemaAxel&layout=compact)](https://github.com/ShemaAxel/github-readme-stats)
 
