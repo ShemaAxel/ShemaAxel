@@ -13,6 +13,4 @@
 
 # Show some ❤️ by starring some of the repositories!
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemaAxel&layout=compact)](https://github.com/ShemaAxel/github-readme-stats)
