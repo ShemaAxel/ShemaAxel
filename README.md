@@ -1,7 +1,6 @@
 ### Hola, I'm Axel!👋
 
 
-
 - 🔭 I’m currently working on BK's e-banking platform as a backend developer.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on [Twitter - @shemaromeoaxel](https://twitter.com/shemaromeoaxel).
@@ -14,4 +13,3 @@
 # Show some ❤️ by starring some of the repositories!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShemaAxel&layout=compact)](https://github.com/ShemaAxel/github-readme-stats)
-
