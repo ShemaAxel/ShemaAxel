@@ -2,7 +2,6 @@
 
 
 
-
 - 🔭 I’m currently working on BK's e-banking platform as a backend developer.
 - 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on [Twitter - @shemaromeoaxel](https://twitter.com/shemaromeoaxel).
