@@ -1,8 +1,8 @@
 ### Hola, I'm Axel!👋
 
 
-- 🔭 I’m currently working on BK's e-banking platform as a backend developer.
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on my country's election management system as a backend developer.
+- 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on [Twitter - @shemaromeoaxel](https://twitter.com/shemaromeoaxel).
 - 🤔 I’m looking for help with Blockchain.
 - 💬 Ask me about tech-related stuff.
